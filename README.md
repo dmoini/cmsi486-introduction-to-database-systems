@@ -1,2 +1,2 @@
-# cmsi486-introduction-to-database-systems
+# CMSI 486: Introduction to Database Systems
 Selected programs from CMSI 486: Introduction to Database Systems course at Loyola Marymount University
