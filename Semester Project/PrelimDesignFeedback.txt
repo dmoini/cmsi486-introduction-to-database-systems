@@ -1,0 +1,24 @@
+
+
+Amplify Database Project
+Preliminary Design Document Feedback
+====================================
+
+Section 1.1 - covered: ✓
+Section 1.2 - covered: ✓
+Section 1.3 - covered: ✓
+Section 1.4 - covered: ✓
+Section 1.5 - covered: ✓
+
+
+This is very good work.  You have addessed all of the required topics.
+
+I like the layout of your ERD, very simple and straightforward.  You have
+a complete idea without a lot of extra stuff.  You might consider a relation
+between Userinfo and Track to help normalize the relationship and keep from
+having to parse arrays of tracks in the Userinfo table.
+
+Overall, VERY NICE WORK!
+
+you have 10% out of 10% which is 100% on this deliverable for an A-plus
+
