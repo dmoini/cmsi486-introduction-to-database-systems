@@ -1,0 +1,22 @@
+﻿
+
+Amplify Section 2 Database Project
+Detailed Design Document Feedback
+====================================
+
+Section 2.1 - covered: ✓
+Section 2.2 - covered: ✓
+Section 2.3 - covered: ✓
+
+
+Nice work on this!  You have done a good job with the data dictionary, but it's
+not very apparent where the split is between the two sections... you seem to
+have described the entire Amplify database in both of the documents for the
+two teams!!  ....but whatever, they are still done independently and look just
+fine.
+
+
+Overall, VERY NICE WORK!
+
+you have 10% out of 10% which is 100% on this deliverable for an A-plus
+
