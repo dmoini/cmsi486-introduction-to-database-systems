@@ -1,0 +1,27 @@
+
+
+Homework 3 evaluation
+=====================
+
+Mongo section
+-------------
+questions 1 - 12     total 11 points
+      didn't show query on #1 but I'll give it to you
+      should only be a single query on #10
+bonus question 13    total 1 point
+bonus question 14    total 1 point
+
+
+Neo4J section
+-------------
+questions 1 - 12     total 12 points
+bonus question 13    total 0 point
+bonus question 14    total 0 point
+
+
+Total score:
+   23 out of 24 plus 2 bonus points
+
+   25 out of 24 = 100.00% which is an A-plus
+
+Nice work!
